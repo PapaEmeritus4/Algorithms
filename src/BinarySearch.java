@@ -2,14 +2,12 @@ public class BinarySearch {
     public static void main(String[] args) {
         int[] array = {1, 3, 5, 7, 9};
 
-        BinarySearch main = new BinarySearch();
-
-        System.out.println(main.binarySearch(array, 9)); //4
-        System.out.println(main.binarySearch(array, 1)); //0
-        System.out.println(main.binarySearch(array, 30)); //-1
+        System.out.println(binarySearch(array, 9)); //4
+        System.out.println(binarySearch(array, 1)); //0
+        System.out.println(binarySearch(array, 30)); //-1
     }
 
-    public int binarySearch(int[] array, int item) {
+    public static int binarySearch(int[] array, int item) {
         if (isListEmpty(array)) {
             return -1;
         }
