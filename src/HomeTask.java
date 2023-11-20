@@ -1,3 +1,9 @@
+import javax.management.Query;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+
 /**
  * тут будут дз по книге
  * */
@@ -27,7 +33,7 @@ public class HomeTask {
         int total = 0;
         int size = array.length;
 
-        if (size == 0) {
+        if (size == 0) {  
             return 0;
         }
         else {

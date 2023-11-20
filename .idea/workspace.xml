@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8c6f63-418f-4b6f-9278-2595bfded150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortBySelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaykstraAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +57,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+  <component name="RunManager" selected="Application.DaykstraAlgorithm">
+    <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaykstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaykstraAlgorithm" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.DaykstraAlgorithm" />
+        <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="Application.HomeTask" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SortBySelection" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +118,10 @@
       <workItem from="1699966525669" duration="4204000" />
       <workItem from="1699974303751" duration="960000" />
       <workItem from="1700050396546" duration="991000" />
-      <workItem from="1700051633895" duration="2581000" />
+      <workItem from="1700051633895" duration="3770000" />
+      <workItem from="1700139396068" duration="2478000" />
+      <workItem from="1700220068979" duration="3538000" />
+      <workItem from="1700483617696" duration="4896000" />
     </task>
     <servers />
   </component>
