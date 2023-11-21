@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8c6f63-418f-4b6f-9278-2595bfded150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DaykstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DaykstraAlgorithm">
+  <component name="RunManager" selected="Application.GreedyAlgorithms">
     <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch" />
       <module name="Algorithms" />
@@ -67,6 +65,13 @@
     </configuration>
     <configuration name="DaykstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaykstraAlgorithm" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedyAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyAlgorithms" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortBySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortBySelection" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreedyAlgorithms" />
         <item itemvalue="Application.DaykstraAlgorithm" />
         <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="Application.HomeTask" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SortBySelection" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +120,7 @@
       <workItem from="1700139396068" duration="2478000" />
       <workItem from="1700220068979" duration="3538000" />
       <workItem from="1700483617696" duration="4896000" />
+      <workItem from="1700585089609" duration="4088000" />
     </task>
     <servers />
   </component>
